@@ -1,1 +1,2 @@
 # Move-it
+Move It is a US-based moving service startup dedicated to making the moving process simple, stress-free, and enjoyable. The website offers professional, countrywide moving solutions tailored to individual needs, from packing to unpacking, with transparent pricing. It emphasizes a personal touch and high-quality service, treating each customer's belongings with care and respect. Visitors can quickly get quotes, check service availability by postcode, and contact the team for support.
